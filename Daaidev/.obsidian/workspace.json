@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a4da145f5f3800",
+        "id": "39dca267134ad70c",
         "type": "tabs",
         "children": [
           {
-            "id": "742d4fdb9092ea26",
+            "id": "8dd07e2679a9a276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Machine Learning/World of wumpus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "World of wumpus"
             }
           }
         ]
-      },
-      {
-        "id": "b1e04824782d898c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46b7c720d648e26c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "578e056ad7d14118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Machine Learning"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Machine Learning/World of wumpus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Machine Learning"
+              "title": "Enlaces salientes de World of wumpus"
             }
           },
           {
@@ -173,16 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Machine Learning/World of wumpus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Machine Learning"
+              "title": "Esquema de World of wumpus"
+            }
+          },
+          {
+            "id": "9ceaf4cb76c1f16a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,12 +176,58 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Crear nueva nota única": false
     }
   },
-  "active": "578e056ad7d14118",
+  "active": "8dd07e2679a9a276",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "Bienvenido.md"
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/World of wumpus.md",
+    "Cuarto semestre.md",
+    "Vision Artificial/Ejercicio 2.md",
+    "Imagenes/Pasted image 20250218192457.png",
+    "Vision Artificial/Ejercicio 1.md",
+    "2025-02-18.md",
+    "Imagenes/Pasted image 20250218192223.png",
+    "Imagenes/Pasted image 20250218191929.png",
+    "Vision Artificial/Fundamentos de la visión artificial y reconocimiento de patrones.md",
+    "Vision Artificial/Niveles de visión artificial.md",
+    "Vision Artificial/Visión Artificial.md",
+    "ESCOM.md",
+    "Quinto semestre.md",
+    "Fundamentos de Inteligencia Artificial/Fundamentos de Inteligencia Artificial.md",
+    "Tareas.md",
+    "Algoritmos bioinspirados/Codificación de información genética.md",
+    "Algoritmos bioinspirados/Imagenes",
+    "Vision Artificial",
+    "Algoritmos bioinspirados/Algoritmos geneticos.md",
+    "Algoritmos bioinspirados/Tipos de problemas.md",
+    "Algoritmos bioinspirados/Algoritmos bioinspirados.md",
+    "Excalidraw/Drawing 2025-02-18 18.44.18.excalidraw.md",
+    "Imagenes/Pasted image 20250218184820.png",
+    "Imagenes/Pasted image 20250218184801.png",
+    "Imagenes/Pasted image 20250218184732.png",
+    "Excalidraw",
+    "Algoritmos bioinspirados/optimizar.md",
+    "Algoritmos bioinspirados/modelar.md",
+    "Algoritmos bioinspirados/Conceptos AB.md",
+    "Introduccion.md",
+    "Algoritmos bioinspirados",
+    "Fundamentos de Inteligencia Artificial/La mente.md",
+    "202502181759.md",
+    "202502181800.md",
+    "Sin título.canvas",
+    "Fundamentos de Inteligencia Artificial",
+    "Imagenes/Pasted image 20250218173557.png",
+    "Imagenes/Pasted image 20250218173540.png",
+    "Imagenes/Pasted image 20250218173531.png",
+    "Imagenes/Pasted image 20250218173520.png",
+    "Imagenes",
+    "Machine Learning"
   ]
 }
