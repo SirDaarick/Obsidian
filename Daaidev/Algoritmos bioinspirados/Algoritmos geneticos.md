@@ -16,6 +16,7 @@ Dada una poblacion de individuos, la presion ambiental causa la seleccion natura
 
 diagrama
 
-## Algoritmo genetico
+## Estructura general de Algoritmo genetico
 
 diagrama de flujo y lista de pasos
+

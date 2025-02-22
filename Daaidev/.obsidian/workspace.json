@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/World of wumpus.md",
+                "file": "CursoPython/Introduccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World of wumpus"
+              "title": "Introduccion"
+            }
+          },
+          {
+            "id": "9865cd5186378f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos bioinspirados/Operadores de cruza (Crossover).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operadores de cruza (Crossover)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,43 +199,45 @@
       "zk-prefixer:Crear nueva nota única": false
     }
   },
-  "active": "8dd07e2679a9a276",
+  "active": "9865cd5186378f4b",
   "lastOpenFiles": [
+    "Algoritmos bioinspirados/Esquema general de un algoritmo genetico.md",
+    "Algoritmos bioinspirados/Operadores de cruza (Crossover).md",
+    "Fundamentos de Inteligencia Artificial/Tareas de la IA.md",
+    "Machine Learning/Errores en la prediccion de modelos.md",
+    "Machine Learning/Entrenamiento del modelo.md",
+    "Machine Learning/Tareas del aprendizaje automatico.md",
+    "Machine Learning/Problemas en el aprendizaje supervisado.md",
+    "Machine Learning/Modos de aprendizaje automatico.md",
+    "Machine Learning/Metodos de validacion.md",
     "Machine Learning/Machine Learning.md",
-    "Machine Learning/World of wumpus.md",
-    "Cuarto semestre.md",
-    "Vision Artificial/Ejercicio 2.md",
-    "Imagenes/Pasted image 20250218192457.png",
+    "Vision Artificial/Practica 2 (Mier 5 Marzo).md",
+    "Vision Artificial/Generación de N clusters.md",
+    "Vision Artificial/Clusters.md",
+    "Vision Artificial/Niveles de visión artificial.md",
     "Vision Artificial/Ejercicio 1.md",
-    "2025-02-18.md",
+    "Tareas.md",
+    "Vision Artificial/Practica 1.md",
+    "CursoPython/Sin título.md",
+    "CursoPython/Introduccion.md",
+    "Fundamentos de Inteligencia Artificial/Fundamentos de Inteligencia Artificial.md",
+    "Fundamentos de Inteligencia Artificial/Qué es la inteligencia artificial.md",
+    "Fundamentos de Inteligencia Artificial/La mente.md",
+    "CursoPython/Programación Orientada a Objetos (POO).md",
+    "CursoPython/Clases.md",
+    "CursoPython",
+    "Vision Artificial/Mathlab.md",
+    "Algoritmos bioinspirados/Tipos de problemas.md",
+    "Imagenes/Pasted image 20250218192457.png",
     "Imagenes/Pasted image 20250218192223.png",
     "Imagenes/Pasted image 20250218191929.png",
-    "Vision Artificial/Fundamentos de la visión artificial y reconocimiento de patrones.md",
-    "Vision Artificial/Niveles de visión artificial.md",
-    "Vision Artificial/Visión Artificial.md",
-    "ESCOM.md",
-    "Quinto semestre.md",
-    "Fundamentos de Inteligencia Artificial/Fundamentos de Inteligencia Artificial.md",
-    "Tareas.md",
-    "Algoritmos bioinspirados/Codificación de información genética.md",
     "Algoritmos bioinspirados/Imagenes",
     "Vision Artificial",
-    "Algoritmos bioinspirados/Algoritmos geneticos.md",
-    "Algoritmos bioinspirados/Tipos de problemas.md",
-    "Algoritmos bioinspirados/Algoritmos bioinspirados.md",
-    "Excalidraw/Drawing 2025-02-18 18.44.18.excalidraw.md",
     "Imagenes/Pasted image 20250218184820.png",
     "Imagenes/Pasted image 20250218184801.png",
     "Imagenes/Pasted image 20250218184732.png",
     "Excalidraw",
-    "Algoritmos bioinspirados/optimizar.md",
-    "Algoritmos bioinspirados/modelar.md",
-    "Algoritmos bioinspirados/Conceptos AB.md",
-    "Introduccion.md",
     "Algoritmos bioinspirados",
-    "Fundamentos de Inteligencia Artificial/La mente.md",
-    "202502181759.md",
-    "202502181800.md",
     "Sin título.canvas",
     "Fundamentos de Inteligencia Artificial",
     "Imagenes/Pasted image 20250218173557.png",

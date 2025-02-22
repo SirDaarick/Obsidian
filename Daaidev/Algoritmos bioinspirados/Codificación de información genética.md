@@ -5,7 +5,9 @@ Se codifica la información a partir del ADN, pequeños cambios en el genotipo (
 
 - Codificación binaria: Cromosoma A = 010101000010001001111
     
-    Se separan los bit para determinar genes, cada bit es un alelo
+    Se separan los bit en subconjuntos de toda la cadena para determinar genes(variables), cada bit es un alelo
+	[[Ejemplo combinacion binaria]]
+	
     
 - Codificación de permutaciones: Cromosoma B = 19348219319
     

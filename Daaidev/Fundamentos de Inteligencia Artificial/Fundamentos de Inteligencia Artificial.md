@@ -7,3 +7,4 @@ Examen 50 %
 Plataforma:  https://e-cec.org.mx/login/index.php
 
 Clase 1 [[La mente]]
+[[Qué es la inteligencia artificial]]

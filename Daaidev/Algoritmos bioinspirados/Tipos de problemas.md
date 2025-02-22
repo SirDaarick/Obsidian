@@ -1,4 +1,4 @@
-## Optimización 
+## #Optimización 
 Son aquellos en los que se busca encontrar la **mejor solución** posible dentro de un conjunto de soluciones viables, siguiendo ciertas restricciones. El objetivo es maximizar o minimizar una función, como **costos**, **tiempo** o **eficiencia**.
 
 ![[Pasted image 20250218184732.png]]
